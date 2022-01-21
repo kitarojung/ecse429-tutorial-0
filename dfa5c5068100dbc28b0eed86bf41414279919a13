@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b18b799c_3e9d4eb7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1019862
+      },
+      "writtenOn": "2022-01-21T18:22:44Z",
+      "side": 1,
+      "message": "Just add a new line to the README.md file",
+      "revId": "dfa5c5068100dbc28b0eed86bf41414279919a13",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bec5fd45_41085ef0",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1019862
+      },
+      "writtenOn": "2022-01-21T18:22:44Z",
+      "side": 1,
+      "message": "This is a comment made in the web interface of Gerrit",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 23
+      },
+      "revId": "dfa5c5068100dbc28b0eed86bf41414279919a13",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
